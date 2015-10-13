@@ -7,12 +7,14 @@ class AlphabetizeCommand(sublime_plugin.TextCommand):
     sections = []
     regions = self.view.sel()
     for region in regions:
+
       # Get the selected text
       sections.append(self.view.substr(region))
-      # Transform it via rot13
 
+    # let the python sort handle it
     sections.sort()
 
+    # replace them inline
     index = 0
     for region in regions:
       self.view.replace(edit, region, sections[index])
