@@ -1,0 +1,13 @@
+[
+{
+  "id" : "alphabetizer",
+  "caption": "alphabetizer",
+  "children":
+  [
+  {
+    "caption" : "alphabetize selections",
+    "command" : "alphabetize"
+  }
+  ]
+}
+]

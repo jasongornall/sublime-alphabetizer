@@ -1,0 +1,8 @@
+{
+    "description": "simple alphabetizer that alphabetizes by selection",
+    "version": "2015.10.13",
+    "sublime_text": "*",
+    "dependencies": [],
+    "url": "https://github.com/victorporof/Sublime-HTMLPrettify",
+    "platforms": ["*"]
+}
