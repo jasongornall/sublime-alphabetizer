@@ -1,3 +1,17 @@
+Installation
+
+Shift-CMD-P and then select "Package Control: Add Repository"
+![Alt text](http://www.macdrifter.com/uploads/2012/08/Screen%20Shot%2020120801_222551.jpg "Optional title")
+
+input https://github.com/jasongornall/sublime-alphabetizer
+
+Shift-CMD-P and then select "install package"
+sublime-alphabetizer
+
+
+
+
+
 Select multiple areas in the code right click and alphabetize as chunks
 
 1: select all the areas
