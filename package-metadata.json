@@ -3,6 +3,6 @@
     "version": "2015.10.13",
     "sublime_text": "*",
     "dependencies": [],
-    "url": "https://github.com/victorporof/Sublime-HTMLPrettify",
+    "url": "https://github.com/jasongornall/sublime-alphabetizer",
     "platforms": ["*"]
 }
