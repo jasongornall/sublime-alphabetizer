@@ -12,7 +12,7 @@ class AlphabetizeCommand(sublime_plugin.TextCommand):
       sections.append(self.view.substr(region))
 
     # let the python sort handle it
-    sections.sort()
+    sections.sort(key=lambda y: y.lower())
 
     # replace them inline
     index = 0
